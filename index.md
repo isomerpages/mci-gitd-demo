@@ -4,7 +4,8 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: hello there. Here's a notification bar you can use!
+notification: MCI website will be undergoing scheduled maintenance from 8pm to
+  9:30pm on 26 Apr 2023.
 sections:
   - hero:
       title: Hero title
