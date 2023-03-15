@@ -28,9 +28,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - infobar:
-      title: Who We Are
-      subtitle: Who We Are
-      description: Who We Are
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
       button: Button Text
+      alt: Image alt text
 ---
