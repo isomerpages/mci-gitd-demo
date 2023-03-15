@@ -14,8 +14,8 @@ sections:
       button: Find out more
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Pressroom
+          description: MCI Response to PQ on Training for Telecommunications Staff
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
