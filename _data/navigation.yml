@@ -1,11 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Example Folder
-    collection: example-folder
-  - title: Example Page
-    url: /example-page/
-  - title: Contact Us
-    url: /contact-us/
   - title: MCI Portfolios
     url: /permalink
     sublinks:
@@ -15,3 +9,9 @@ links:
         url: /digital-defence
       - title: Submenu Title
         url: /permalink
+  - title: Example Folder
+    collection: example-folder
+  - title: Example Page
+    url: /example-page/
+  - title: Contact Us
+    url: /contact-us/
