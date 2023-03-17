@@ -1,11 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Who We Are
+    url: /permalink
+    sublinks: []
   - title: Example Folder
     collection: example-folder
   - title: Example Page
     url: /example-page/
   - title: Contact Us
     url: /contact-us/
-  - title: Who We Are
-    url: /permalink
-    sublinks: []
