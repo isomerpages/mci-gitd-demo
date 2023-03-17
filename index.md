@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Committee of Supply 2023
       subtitle: Empowering Singaporeans to Thrive in Our Digital Future
-      background: /images/banner_COS2023.png
+      background: /images/hero-banner.png
       button: Find out more
       url: /contact-us/
       key_highlights:
@@ -40,5 +40,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
