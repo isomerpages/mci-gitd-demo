@@ -4,9 +4,9 @@ links:
     url: /permalink
     sublinks:
       - title: Cyber Security
-        url: /cyber-security
+        url: /mci-portfolios/cyber-security
       - title: Digital Defence
-        url: /digital-defence
+        url: /mci-portfolios/digital-defence
       - title: Submenu Title
         url: /permalink
   - title: Example Folder
