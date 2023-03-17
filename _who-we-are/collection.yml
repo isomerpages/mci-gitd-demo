@@ -1,8 +1,0 @@
-collections:
-  who-we-are:
-    output: true
-    order:
-      - terms-of-use.md
-      - privacy.md
-      - faq.md
-      - example-page.md
