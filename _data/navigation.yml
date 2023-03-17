@@ -1,19 +1,10 @@
 logo: /images/logo_mci.jpg
 links:
-  - title: MCI Portfolios
-    url: /mci-portfolios/cyber-security
-    sublinks:
-      - title: Cyber Security
-        url: /mci-portfolios/cyber-security
-      - title: Digital Defence
-        url: /mci-portfolios/digital-defence/be-secure/
-      - title: Submenu Title
-        url: /permalink
   - title: Example Folder
     collection: example-folder
   - title: Example Page
     url: /example-page/
   - title: Contact Us
     url: /contact-us/
-  - title: MCI Portfolios1
+  - title: MCI Portfolios
     collection: mci-portfolios
