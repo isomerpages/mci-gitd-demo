@@ -1,7 +1,7 @@
 logo: /images/logo_mci.jpg
 links:
   - title: MCI Portfolios
-    url: /permalink
+    url: /mci-portfolios/cyber-security
     sublinks:
       - title: Cyber Security
         url: /mci-portfolios/cyber-security
