@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: MCI website will be undergoing scheduled maintenance from 8pm to
@@ -40,3 +40,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
