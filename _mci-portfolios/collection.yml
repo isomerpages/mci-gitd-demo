@@ -2,7 +2,7 @@ collections:
   mci-portfolios:
     output: true
     order:
+      - Cyber Security.md
+      - Digital Defence/.keep
       - Digital Defence/Be Secure.md
       - Digital Defence/Why Digital Defence?.md
-      - Digital Defence/.keep
-      - Cyber Security.md
