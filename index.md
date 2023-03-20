@@ -9,9 +9,9 @@ notification: MCI website will be undergoing scheduled maintenance from 8pm to
 sections:
   - hero:
       title: MCI COS
-      subtitle: view more
-      background: /images/hero-banner.png
-      button: Hero button
+      subtitle: Empowering Singaporeans to Thrive in Our Digital Future
+      background: /images/banner_COS2023.png
+      button: Find out more
       url: /contact-us/
       key_highlights:
         - title: Pressroom
