@@ -8,8 +8,8 @@ notification: MCI website will be undergoing scheduled maintenance from 8pm to
   9:30pm on 26 Apr 2023.
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: MCI COS
+      subtitle: view more
       background: /images/hero-banner.png
       button: Hero button
       url: /contact-us/
