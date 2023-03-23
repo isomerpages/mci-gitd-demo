@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Site Title
-description: An Isomer site of the Singapore Government
+title: Ministry of Communications and Information
+description: |
+  An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -29,3 +30,4 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
+
