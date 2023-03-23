@@ -1,4 +1,5 @@
 collections:
   cos2023:
     output: true
-    order: []
+    order:
+      - COS2023.md
