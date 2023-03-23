@@ -2,4 +2,5 @@ collections:
   cos2023:
     output: true
     order:
+      - video.md
       - COS2023.md
