@@ -5,7 +5,8 @@ description: |
   An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Singpass will be undergoing scheduled maintenance from 8pm to
+  9:30pm on 26 Apr 2023.
 sections:
   - hero:
       title: Hero title
@@ -30,4 +31,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
