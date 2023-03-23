@@ -4,8 +4,7 @@ title: Site Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: MCI website will be undergoing scheduled maintenance from 8pm to
-  9:30pm on 26 Apr 2023.
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -40,4 +39,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
