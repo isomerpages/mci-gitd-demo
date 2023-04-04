@@ -11,4 +11,4 @@ links:
   - title: e-Gazette
     resource_room: true
   - title: e-GazetteFolder
-    collection: e-gazette1
+    collection: current-notices
