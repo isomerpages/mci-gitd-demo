@@ -1,0 +1,4 @@
+collections:
+  e-gazette-archive:
+    output: true
+    order: []
