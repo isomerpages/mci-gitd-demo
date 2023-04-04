@@ -1,0 +1,4 @@
+collections:
+  current-notices:
+    output: true
+    order: []
