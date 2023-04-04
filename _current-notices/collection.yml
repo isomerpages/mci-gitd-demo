@@ -2,4 +2,5 @@ collections:
   current-notices:
     output: true
     order:
+      - Government Gazette/listing.md
       - Government Gazette/.keep
