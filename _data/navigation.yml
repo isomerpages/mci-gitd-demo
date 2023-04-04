@@ -8,3 +8,5 @@ links:
     url: /contact-us/
   - title: COS 2023
     collection: cos2023
+  - title: e-Gazette
+    resource_room: true
