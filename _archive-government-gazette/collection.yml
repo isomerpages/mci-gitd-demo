@@ -1,4 +1,5 @@
 collections:
   archive-government-gazette:
     output: true
-    order: []
+    order:
+      - year.md
