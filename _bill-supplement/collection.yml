@@ -1,0 +1,4 @@
+collections:
+  bill-supplement:
+    output: true
+    order: []
