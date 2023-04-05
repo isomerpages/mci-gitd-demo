@@ -1,4 +1,5 @@
 collections:
   government-gazette:
     output: true
-    order: []
+    order:
+      - 2023/.keep
