@@ -12,4 +12,6 @@ links:
     collection: current-notices
   - title: Archive
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Government Gazette
+        url: /permalink
