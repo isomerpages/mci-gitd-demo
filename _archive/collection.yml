@@ -1,5 +1,0 @@
-collections:
-  archive:
-    output: true
-    order:
-      - Government Gazette/.keep
