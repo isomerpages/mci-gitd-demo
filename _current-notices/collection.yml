@@ -2,12 +2,12 @@ collections:
   current-notices:
     output: true
     order:
-      - Statues.md
-      - Supplement to Government Gazette.md
-      - Treaty Supplement.md
-      - Industrial Relations Supplement.md
-      - Subsidiary Legislation Supplement.md
-      - Act Supplement.md
-      - Bill Supplement.md
       - Government Gazette.md
+      - Bill Supplement.md
+      - Act Supplement.md
+      - Subsidiary Legislation Supplement.md
+      - Industrial Relations Supplement.md
+      - Treaty Supplement.md
+      - Supplement to Government Gazette.md
+      - Statues.md
       - Statues/.keep
