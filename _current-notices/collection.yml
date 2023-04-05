@@ -2,12 +2,12 @@ collections:
   current-notices:
     output: true
     order:
-      - Statues/.keep
-      - Supplement to GG/.keep
-      - Treaty Supplement/.keep
-      - Industrial Relation/.keep
-      - Subsidiary Legislation Supple/.keep
-      - Act Supplement/.keep
-      - Bill Supplement/.keep
-      - Government Gazette/listing.md
       - Government Gazette/.keep
+      - Government Gazette/listing.md
+      - Bill Supplement/.keep
+      - Act Supplement/.keep
+      - Subsidiary Legislation Supple/.keep
+      - Industrial Relation/.keep
+      - Treaty Supplement/.keep
+      - Supplement to GG/.keep
+      - Statues/.keep
