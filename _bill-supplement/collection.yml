@@ -2,4 +2,5 @@ collections:
   bill-supplement:
     output: true
     order:
+      - 2023/Bill supplement.md
       - 2023/.keep
