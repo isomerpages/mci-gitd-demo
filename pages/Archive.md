@@ -5,7 +5,7 @@ description: ""
 ---
 |  | 
 | -------- | 
-| Government Gazette     |
+| [Government Gazette](\government-gazette)     |
 | Bill Supplement     |
 | Act Supplement |
 | Subsidiary Legislation Supplement | 
