@@ -10,12 +10,5 @@ links:
     resource_room: true
   - title: Current Notices
     collection: current-notices
-  - title: Archive
-    url: /permalink
-    sublinks:
-      - title: Government Gazette
-        url: /government-gazette/
-      - title: Bill Supplement
-        url: /bill-supplement/
   - title: Archives
     url: /archive
