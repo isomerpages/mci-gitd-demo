@@ -2,6 +2,7 @@ collections:
   current-notices:
     output: true
     order:
+      - Treaty Supplement.md
       - Industrial Relations Supplement.md
       - Subsidiary Legislation Supplement.md
       - Act Supplement.md
