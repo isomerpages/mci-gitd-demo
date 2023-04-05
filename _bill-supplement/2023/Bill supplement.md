@@ -4,3 +4,9 @@ permalink: /bill-supplement/2023/bill-supplement/
 description: ""
 third_nav_title: "2023"
 ---
+| Notification No. | Type | Subject | Published Date |
+| -------- | -------- | -------- | ---|
+| 11    |  | Financial Services and Markets (Amendment) Bill   | 2023-03-20    |
+| 10    |  |Constitution of the Republic of Singapore (Amendment) Bill   | 2023-03-20    |
+| 09   |  |Misuse of Drugs (Amendment) Bill   | 2023-03-20    |
+
