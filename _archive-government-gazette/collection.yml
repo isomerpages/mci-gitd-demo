@@ -1,5 +1,0 @@
-collections:
-  archive-government-gazette:
-    output: true
-    order:
-      - year.md
