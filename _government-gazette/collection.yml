@@ -2,5 +2,6 @@ collections:
   government-gazette:
     output: true
     order:
+      - 2023/Week Ending 24 Mar 2023.md
       - 2023/Week ending 31 Mar 2023.md
       - 2023/.keep
