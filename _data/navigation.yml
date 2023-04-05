@@ -8,10 +8,12 @@ links:
     collection: cos2023
   - title: e-Gazette
     resource_room: true
-  - title: Current
+  - title: Current Notices
     collection: current-notices
   - title: Archive
     url: /permalink
     sublinks:
       - title: Government Gazette
+        url: /permalink
+      - title: Bill Supplement
         url: /permalink
