@@ -1,0 +1,4 @@
+collections:
+  government-gazette:
+    output: true
+    order: []
