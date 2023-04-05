@@ -1,5 +1,0 @@
-collections:
-  e-gazette-archive:
-    output: true
-    order:
-      - Archive.md
