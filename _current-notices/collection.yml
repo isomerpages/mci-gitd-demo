@@ -2,6 +2,7 @@ collections:
   current-notices:
     output: true
     order:
+      - Subsidiary Legislation Supple/.keep
       - Act Supplement/.keep
       - Bill Supplement/.keep
       - Government Gazette/listing.md
