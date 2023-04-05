@@ -2,6 +2,7 @@ collections:
   current-notices:
     output: true
     order:
+      - Government Gazette.md
       - Government Gazette/.keep
       - Government Gazette/listing.md
       - Bill Supplement/.keep
