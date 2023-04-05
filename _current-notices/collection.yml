@@ -2,6 +2,7 @@ collections:
   current-notices:
     output: true
     order:
+      - Treaty Supplement/.keep
       - Industrial Relation/.keep
       - Subsidiary Legislation Supple/.keep
       - Act Supplement/.keep
