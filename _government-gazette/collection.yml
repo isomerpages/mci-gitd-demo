@@ -2,6 +2,7 @@ collections:
   government-gazette:
     output: true
     order:
+      - 2024/.keep
       - Government Gazette.md
       - 2023/week ending7 mar 2023.md
       - 2023/.keep
