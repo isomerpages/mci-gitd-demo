@@ -10,5 +10,8 @@ links:
     collection: cos2023
   - title: e-Gazette
     resource_room: true
-  - title: e-GazetteFolder
+  - title: Current Folder
     collection: current-notices
+  - title: Archive
+    url: /permalink
+    sublinks: []
