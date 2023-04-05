@@ -2,4 +2,5 @@ collections:
   bill-supplement:
     output: true
     order:
+      - Year.md
       - 2023.md
