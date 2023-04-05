@@ -2,6 +2,7 @@ collections:
   current-notices:
     output: true
     order:
+      - Statues/.keep
       - Supplement to GG/.keep
       - Treaty Supplement/.keep
       - Industrial Relation/.keep
