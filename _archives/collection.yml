@@ -2,13 +2,13 @@ collections:
   archives:
     output: true
     order:
-      - Revised Subsidiary Legislation.md
-      - Statues.md
-      - Supplement to Government Gazette.md
-      - Treaties Supplement.md
-      - Trade Marks Supplement.md
-      - Industrial Relations Supplement.md
-      - Subsidiary Legislation Supplement.md
       - Government Gazette.md
       - Bill Supplement.md
       - Acts Bills.md
+      - Subsidiary Legislation Supplement.md
+      - Industrial Relations Supplement.md
+      - Trade Marks Supplement.md
+      - Treaties Supplement.md
+      - Supplement to Government Gazette.md
+      - Statues.md
+      - Revised Subsidiary Legislation.md
