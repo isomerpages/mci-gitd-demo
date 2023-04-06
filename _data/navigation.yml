@@ -12,10 +12,8 @@ links:
     collection: current-notices
   - title: Archives
     url: /archives
-  - title: Archives
-    url: /archives
     sublinks:
       - title: Government Gazette
         url: /government-gazette/
       - title: bills supplement
-        url: /bill
+        url: /bill-supplement
