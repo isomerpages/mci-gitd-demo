@@ -2,6 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - Acts Bills.md
-      - Bill Supplement.md
       - Government Gazette.md
+      - Bill Supplement.md
+      - Acts Bills.md
