@@ -14,7 +14,7 @@ links:
     url: /archives
     sublinks:
       - title: Government Gazette
-        url: /government-gazette/
+        collection: Government Gazette
       - title: Bills Supplement
         url: /bill-supplement/
       - title: Acts Supplement
