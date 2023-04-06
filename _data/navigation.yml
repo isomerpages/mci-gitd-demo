@@ -12,3 +12,6 @@ links:
     collection: current-notices
   - title: Archives
     url: /archives
+  - title: Archives
+    url: /archives
+    sublinks: []
