@@ -2,5 +2,5 @@ collections:
   acts-supplement:
     output: true
     order:
-      - year.md
+      - Year.md
       - 2023.md
