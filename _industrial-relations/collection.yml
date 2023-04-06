@@ -1,4 +1,5 @@
 collections:
   industrial-relations:
     output: true
-    order: []
+    order:
+      - 2022/.keep
