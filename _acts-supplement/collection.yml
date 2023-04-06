@@ -1,4 +1,5 @@
 collections:
   acts-supplement:
     output: true
-    order: []
+    order:
+      - year.md
