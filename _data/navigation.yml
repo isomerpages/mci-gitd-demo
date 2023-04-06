@@ -14,4 +14,8 @@ links:
     url: /archives
   - title: Archives
     url: /archives
-    sublinks: []
+    sublinks:
+      - title: government gazette
+        url: /gg
+      - title: bills supplement
+        url: /bill
