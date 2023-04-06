@@ -2,5 +2,4 @@ collections:
   revised-subsidiary-legislation:
     output: true
     order:
-      - 2022.md
       - 2023/.keep
