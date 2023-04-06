@@ -2,4 +2,5 @@ collections:
   archives:
     output: true
     order:
+      - Bill Supplement.md
       - Government Gazette.md
