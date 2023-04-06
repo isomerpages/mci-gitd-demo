@@ -15,5 +15,9 @@ links:
     sublinks:
       - title: Government Gazette
         url: /government-gazette/
-      - title: bills supplement
+      - title: Bills Supplement
         url: /bill-supplement
+      - title: Acts Supplement
+        url: /act-supplement
+      - title: Subsidiary Legislation
+        url: /subsidiary-legislation
