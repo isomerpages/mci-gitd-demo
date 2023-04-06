@@ -2,4 +2,5 @@ collections:
   industrial-relations:
     output: true
     order:
+      - 2023/.keep
       - 2022/.keep
