@@ -8,21 +8,7 @@ links:
     collection: archives
   - title: Archive Government Gazette
     collection: government-gazette
-  - title: Archive Bill Supplement
-    collection: bill-supplement
-  - title: Archive Act Supplement
-    collection: acts-supplement
   - title: Archive SL Supplement
     collection: subsidary-legislation
   - title: Archive IRS
     collection: industrial-relations
-  - title: Archive Trade Marks Supplement
-    collection: trade-marks-supplement
-  - title: Archive Treaties Supplement
-    collection: treaties-supplement
-  - title: Archive Supplement to GG
-    collection: acts-supplement
-  - title: Archive Statues
-    collection: statues
-  - title: Archived Revised SL
-    collection: revised-subsidiary-legislation
