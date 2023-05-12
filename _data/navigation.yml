@@ -1,7 +1,5 @@
 logo: /images/logo_mci.jpg
 links:
-  - title: MCI Portfolios
-    collection: mci-portfolios
   - title: Current Notices
     collection: current-notices
   - title: Archives
