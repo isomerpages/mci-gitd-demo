@@ -2,23 +2,27 @@ logo: /images/logo_mci.jpg
 links:
   - title: MCI Portfolios
     collection: mci-portfolios
-  - title: Contact Us
-    url: /contact-us/
-  - title: COS 2023
-    collection: cos2023
   - title: Current Notices
     collection: current-notices
   - title: Archives
     collection: archives
-  - title: test 6
-    url: /permalink
-  - title: test 7
-    url: /permalink
-  - title: test 8
-    url: /permalink
-  - title: test 9
-    url: /permalink
-  - title: test 10
-    url: /permalink
-  - title: test 11
-    url: /permalink
+  - title: Archive Government Gazette
+    collection: government-gazette
+  - title: Archive Bill Supplement
+    collection: bill-supplement
+  - title: Archive Act Supplement
+    collection: acts-supplement
+  - title: Archive SL Supplement
+    collection: subsidary-legislation
+  - title: Archive IRS
+    collection: industrial-relations
+  - title: Archive Trade Marks Supplement
+    collection: trade-marks-supplement
+  - title: Archive Treaties Supplement
+    collection: treaties-supplement
+  - title: Archive Supplement to GG
+    collection: acts-supplement
+  - title: Archive Statues
+    collection: statues
+  - title: Archived Revised SL
+    collection: revised-subsidiary-legislation
