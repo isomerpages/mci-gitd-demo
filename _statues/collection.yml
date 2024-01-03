@@ -1,0 +1,7 @@
+collections:
+  statues:
+    output: true
+    order:
+      - Year.md
+      - 2023.md
+      - 2022.md

@@ -1,0 +1,11 @@
+collections:
+  archives:
+    output: true
+    order:
+      - Bill Supplement.md
+      - Acts Supplement.md
+      - Trade Marks Supplement.md
+      - Treaties Supplement.md
+      - Supplement to Government Gazette.md
+      - Statues.md
+      - Revised Subsidiary Legislation.md

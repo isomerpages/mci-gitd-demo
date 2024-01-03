@@ -1,0 +1,7 @@
+collections:
+  revised-subsidiary-legislation:
+    output: true
+    order:
+      - Revised Subsidiary Legislation.md
+      - 2023/.keep
+      - 2022/.keep

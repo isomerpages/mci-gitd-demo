@@ -1,0 +1,12 @@
+logo: /images/logo_mci.jpg
+links:
+  - title: Current Notices
+    collection: current-notices
+  - title: Archives
+    collection: archives
+  - title: Archived Government Gazette
+    collection: government-gazette
+  - title: Archived Sub Legislation Sup
+    collection: subsidary-legislation
+  - title: Archived Indust Relation Sup
+    collection: industrial-relations

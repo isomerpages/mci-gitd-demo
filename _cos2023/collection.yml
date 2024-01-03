@@ -1,0 +1,6 @@
+collections:
+  cos2023:
+    output: true
+    order:
+      - COS 2023.md
+      - video.md
