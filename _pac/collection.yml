@@ -1,0 +1,4 @@
+collections:
+  pac:
+    output: true
+    order: []
