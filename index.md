@@ -1,8 +1,7 @@
 ---
 layout: homepage
 title: Ministry of Communications and Information
-description: |
-  An Isomer site of the Singapore Government
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Singpass will be undergoing scheduled maintenance from 8pm to
@@ -21,9 +20,9 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Apply for Temporary Press Accreditation Card (TPAC)
+          description: ""
+          url: /pac/tpac
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
