@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Subfolder/.keep
-      - One Map.md
       - Apply for Temp PAC (TPAC).md
