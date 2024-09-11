@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
-      description: Infopic description
+      description: Infopic description 1
       button: Button Text
       alt: Image alt text
 ---
