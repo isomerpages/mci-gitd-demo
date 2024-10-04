@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Ministry of Communications and Information
+title: MDDI - Ministry of Digital Development and Information
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
