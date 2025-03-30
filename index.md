@@ -6,8 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Messages Government officials will NEVER ask you to transfer money
   or disclose personal/banking details over a phone call. Call the 24/7
-  ScamShield Helpline at 1799 if you are unsure if something is a scam. Visit
-  www.scamshield.gov.sg
+  ScamShield Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: Committee of Supply 2023
